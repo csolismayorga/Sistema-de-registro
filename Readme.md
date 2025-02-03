@@ -4,3 +4,5 @@
   Para ejecutar el sistema
 
 ````npm install react````
+
+Se actualiza este documento para probar sincronización de repositorio en PC
